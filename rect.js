@@ -6,6 +6,7 @@ const head = React.createElement("div",{id: "parent"},[
     React.createElement("div",{id: "child"},[
         React.createElement("h1",{},"hi am h1 tag from child 2"),
         React.createElement("h2",{},"hi am h2 from child 2"),
+        React.createElement("h2",{},"hi am h2 from child 2"),
     ])
 ]);
 
